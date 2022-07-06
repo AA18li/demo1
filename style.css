@@ -1,4 +1,9 @@
 body {
   font-family: "Dosis", sans-serif;
   font-weight: 500;
+}
+
+#login .textbox h1 {
+  font-weight: 700;
+  font-size: 30px;
 }/*# sourceMappingURL=style.css.map */
