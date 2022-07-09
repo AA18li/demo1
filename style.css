@@ -12,8 +12,15 @@ body section {
   margin: 40px 20px 20px 20px;
 }
 #login .box input {
-  border: 5px solid #2d68b4;
+  border: 3px solid #2d68b4;
+  margin: 40px 0 30px 0;
+  display: block;
 }
 #login .box .btn {
-  background-color: #2a70cc;
+  background-color: #7c9ac2;
+  margin-left: 120px;
+  color: white;
+}
+#login .box .btn:hover {
+  cursor: pointer;
 }/*# sourceMappingURL=style.css.map */
