@@ -12,5 +12,8 @@ body section {
   margin: 40px 20px 20px 20px;
 }
 #login .box input {
-  border: 5px solid #ff6600;
+  border: 5px solid #2d68b4;
+}
+#login .box .btn {
+  background-color: #2a70cc;
 }/*# sourceMappingURL=style.css.map */
