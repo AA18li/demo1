@@ -1,10 +1,11 @@
 #login .box h1 {
   font-weight: 700;
   font-size: 40px;
+  margin: 40px 20px 20px 20px;
 }
 #login .box input {
-  border: 5px solid #ff6600;
-  width: 400px;
-  padding: 20px 20px 20px 20px;
-  margin: 10px 10px 10px 10px;
+  border: 5px solid #2d68b4;
+}
+#login .box .btn {
+  background-color: #2a70cc;
 }/*# sourceMappingURL=login.css.map */

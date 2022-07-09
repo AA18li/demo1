@@ -2,8 +2,15 @@ body {
   font-family: "Dosis", sans-serif;
   font-weight: 500;
 }
+body section {
+  padding: 140px 0;
+}
 
 #login .box h1 {
   font-weight: 700;
   font-size: 40px;
+  margin: 40px 20px 20px 20px;
+}
+#login .box input {
+  border: 5px solid #ff6600;
 }/*# sourceMappingURL=style.css.map */
