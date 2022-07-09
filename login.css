@@ -6,13 +6,14 @@
 #login .box input {
   border: 3px solid #2d68b4;
   margin: 31px 0 31px 0;
+  height: 44px;
   display: block;
 }
 #login .box .btn {
   background-color: #ae97da;
-  margin-left: 120px;
+  margin-left: 87px;
   color: white;
-  width: 80px;
+  width: 85px;
 }
 #login .box .btn:hover {
   cursor: pointer;
