@@ -1,18 +1,18 @@
 "use strict";
 $(document).ready(function () {
 
-    $('#btn').click(function (e) {
+    $('.btn').click(function (e) {
         e.preventDefault();
-        let func = a => {
-            if (Number(a)) {
-                for (let i = 1; i <= a; i++) {
-                    $('.minibox').append(`<h3>${a}</h3>`);
-                }
-            } else{
-                $('.minibox').append(`<h1>${a}</h1>`);
+        if ($.trim($('input').val()) == '') {
+            $('input').val();
+        } else {
+            let k = v => {
+                for (let i = 0; i < v; i++) { $('.minibox').append(`<h3>${v}</h3>`) };
             }
+            let z = e => Number(e) ? k(e) : $('.minibox').append(`<h3>${e}</h3>`);
+            z($('input').val());
         }
-        func($('input').val());
+        $('input').val('') 
     });
 
 });
