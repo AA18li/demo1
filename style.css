@@ -23,9 +23,6 @@ body section {
   color: white;
   width: 85px;
 }
-#login .box .btn:hover {
-  cursor: pointer;
-}
 #login .minibox h3 {
   width: 300px;
   border: 3px solid #2427b9;
