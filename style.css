@@ -16,9 +16,7 @@ section {
 #login {
   background-image: url("assets/itech.jpeg");
   background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  padding: 35vh;
+  padding: 33vh;
 }
 #login h1 {
   font-weight: 700;

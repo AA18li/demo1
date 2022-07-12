@@ -6,7 +6,7 @@
 #login h1 {
   font-weight: 700;
   font-size: 55px;
-  margin: 30px 0 0 38px;
+  margin: 30px 0 0 0;
   color: white;
 }
 #login input {
