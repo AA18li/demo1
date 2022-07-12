@@ -15,12 +15,12 @@ body section {
 }
 #login .box h1 {
   font-weight: 700;
-  font-size: 60px;
-  margin: 70px 0 0 44px;
+  font-size: 55px;
+  margin: 83px 0 0 38px;
   color: white;
 }
 #login .box input {
-  border: 3px solid #205ada;
+  border: 3px solid #ffb100;
   margin: 31px 0 31px 0;
   height: 44px;
   display: block;
@@ -32,9 +32,9 @@ body section {
   width: 85px;
 }
 #login .minibox h3 {
-  width: 300px;
-  border: 3px solid #c985c0;
+  width: 280px;
+  border: 3px solid #ffb100;
   font-size: 30px;
   color: rgba(0, 0, 0, 0);
-  margin: 50px;
+  margin: 38px;
 }/*# sourceMappingURL=style.css.map */
